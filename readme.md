@@ -15,6 +15,8 @@
 
 Do you need more reasons for enrolling for this amazing course on DevOps?
 
+Ayo head is like coconut....
+
 Do you have ZERO experience with DevOps with Docker, Kubernetes, Azure Devops, Jenkins, Terraform, Ansible, AWS, Azure and Google Cloud? No Problem.
 
 Do you have ZERO experience with DevOps Containers and Container Orchestration with Docker and Kubernetes? No Problem.
